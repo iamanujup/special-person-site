@@ -28,7 +28,7 @@ export default function SpecialPersonApp() {
           duration: 0.8,
         }}
         className="fixed bottom-4 right-4 text-sm text-black/50 pointer-events-none z-50 font-light">
-        anujbuilds.in
+        MADE BY NIKUNJ AND YOUR DAUGHTER NANDANI ❤️
       </motion.div>
     </div>
   );
