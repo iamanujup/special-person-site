@@ -3,7 +3,7 @@ import { HeartIcon } from "lucide-react";
 
 const REASONS = [
   "Your smile feels comforting 🤍",
-  "You make people feel safe ✨",
+  "Thank you for coming into my life🥰",
   "Your energy is adorable 🌷",
   "You care more than you show 💖",
   "You’re one of a kind 🥹"
